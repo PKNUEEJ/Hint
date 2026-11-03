@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Arcade 1981 - Retro Space Shooter",
+  "description": "Authentic 80s arcade Galaxian and Galaga style retro space shooter featuring formation swoops, tractor beam rescues, boss battles, CRT filter, and high score leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
